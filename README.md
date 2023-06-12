@@ -6,6 +6,7 @@ Github Package Must Be Installed On Your Device.
 $sudo apt install git -y
 
 Install Crypter
+</b>
 $sudo git clone https://github.com/cektor/crypter.git
 $cd crypter/
 $sudo chmod +x crypter.sh
