@@ -20,7 +20,7 @@ decrypt() {
     echo -e "${GREEN}Çözülmüş metin: $decrypted_text${NC}"
 }
 
-echo "Metni şifreleme ve çözme uygulamasına hoş geldiniz"
+echo "Metni şifreleme ve çözme uygulamasına hoş geldiniz! Code By Fatih ONDER"
 
 while true; do
     echo ""
