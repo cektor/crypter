@@ -21,6 +21,9 @@ $sudo chmod +x crypter.sh
 $./crypter.sh
 
 
-Screenshot
-c542ryp_059105.png
+
+# Screenshot
+
+![Demo](c542ryp_059105.png)
+
 
