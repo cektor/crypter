@@ -1,3 +1,7 @@
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
+
 # crypter
 This script provides the user with options to encrypt and decrypt the text. The user selects the relevant option to encrypt or decrypt the text and makes the necessary entries.
 
